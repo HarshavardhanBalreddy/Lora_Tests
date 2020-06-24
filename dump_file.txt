@@ -1,0 +1,267 @@
+START
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+Send: INF
+
+on_FhssChangeChannel
+on_CadDone
+
+{'rx_timeout': 0, 'rx_done': 0, 'crc_error': 0, 'valid_header': 1, 'tx_done': 0, 'cad_done': 1, 'fhss_change_ch': 0, 'cad_detected': 1}
+{'rx_timeout': 0, 'rx_done': 0, 'crc_error': 0, 'valid_header': 1, 'tx_done': 0, 'cad_done': 1, 'fhss_change_ch': 0, 'cad_detected': 1}
+
+on_RxTimeout
+Receive:
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+
+Send: ACK
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+
+on_CadDone
+Receive:
+
+{'rx_timeout': 0, 'rx_done': 0, 'crc_error': 0, 'valid_header': 1, 'tx_done': 0, 'cad_done': 1, 'fhss_change_ch': 0, 'cad_detected': 1}
+Receive:
+
+Send: ACK
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: ACK
+
+on_RxTimeout
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+Send: INF
+
+on_CadDone
+{'rx_timeout': 0, 'rx_done': 1, 'crc_error': 0, 'valid_header': 0, 'tx_done': 0, 'cad_done': 0, 'fhss_change_ch': 0, 'cad_detected': 0}
+^CExit
+KeyboardInterrupt
+Exit
